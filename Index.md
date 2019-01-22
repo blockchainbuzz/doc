@@ -16,8 +16,8 @@ This is unofficial documentation. Use it with caution.
 ## Pedersen Commitments
 ### Pedersen Commitments
 ### Amount Commitments
-### Range Proofts
-### Range Profts in a blockchain
+### Range Proofs
+### Range Proofs in a blockchain
 ## Monero Transactions
 ### User Keys
 ### One-time Addresses
