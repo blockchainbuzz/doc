@@ -23,8 +23,7 @@ Additially, transaction amounts in the Monero blockchain are concealed behind cr
 |Address        | Also refer to wallet addres for Monero is a set of 95 characters starting with a '4'. For instance 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A.|
 |Address Book   | An Address Book allow you to traslate I2P websites/services that use the `.i2p`top-level domain into an address that I2P network will understanand. |
 |Atomic Untis   | It is refering to the smallest fraction of 1 XMR. One atomic unit is currently 1e-12 (0.000000000001 XMR, or one piconero). |
-|Base32 Address | Is a shrtened, encoded version of an I2P address. The Base32 address is the first part in `.b32.i2` hostname. xample: `i35yftyyb22xhcvghmev46t5knefur5v66qzekkajatwfwhyklvq.b32.i2p`
-Where `i35yftyyb22xhcvghmev46t5knefur5v66qzekkajatwfwhyklvq` is the Base32 address. A Base32 address is a 52 character Base32 encoded represntation of the full SHA-256 of an I2P Base64 address.  |
+|Base32 Address | Is a shrtened, encoded version of an I2P address. The Base32 address is the first part in `.b32.i2` hostname. Example: `i35yftyyb22xhcvghmev46t5knefur5v66qzekkajatwfwhyklvq.b32.i2p` Where `i35yftyyb22xhcvghmev46t5knefur5v66qzekkajatwfwhyklvq` is the Base32 address. A Base32 address is a 52 character Base32 encoded represntation of the full SHA-256 of an I2P Base64 address.  |
 |Blockchain     | A distributed database that continously grows with a record of all transaction that have occured with given cryptocurrency. The database often refer as a ledger because the dat contains a larg list of transactions that have taken place. |
 
 
