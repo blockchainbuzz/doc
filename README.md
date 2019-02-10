@@ -13,9 +13,13 @@ Monero cryptocurrency attemps to tackle the limited privacy on an open blockchai
 Additially, transaction amounts in the Monero blockchain are concealed behind cryptographic constructions, rendering currency flow opaque. This allows a high level of anonymity in cryptocurency transafctions. 
 
 ### Abbreviations
+| Abbreviations | Descriptions                                           |
+| ------------- | ------------------------------------------------------ |
 |RingCT         | Ring Signatures
 
 ### Definitions
+| Definitions   | Descriptions                                           |
+| ------------- | ------------------------------------------------------ |
 |Address        | Also refer to wallet addres for Monero is a set of 95 characters starting with a '4'. For instance 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A.|
 |Address Book   | An Address Book allow you to traslate I2P websites/services that use the `.i2p`top-level domain into an address that I2P network will understanand. |
 |Atomic Untis   | It is refering to the smallest fraction of 1 XMR. One atomic unit is currently 1e-12 (0.000000000001 XMR, or one piconero). |
