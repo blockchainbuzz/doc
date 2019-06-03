@@ -37,12 +37,17 @@ Additially, transaction amounts in the Monero blockchain are concealed behind cr
 * Max supply: 18.4 Million XMR + 0.3 XMR/minute 
 * Block reward: Smoothly varying
 * Block time: 120 seconds
-* Difficulty: Retargets at every block 
+* Difficulty: Retargets at every block
+
 [1] CPU + GPU mining
 [3] Use a recurrence relation. Block reward = (M - A) * 2^-20 * 10^-12, where A = current circulation. 
 
 ## Basic Concepts
 ### Modular Aritmatic
+Most modern cryptography begins with modular arithmetic, which in turn begins with the modulus operation (denoted 'mode'). We only care about the positive modulus, which alayws returens a positive integer. 
+The positive modulus is here defined for a (mod b) = c as a = bx + c, whree 0 <= c < b and x is signed integer which get discarded (note that b is an integer bigger than zero). 
+Lets imagen a number line. We stand at point a, when walk toward zero with each step = b until we reach an integer >= 0 and < b. htat is c. For example 4 (mod 3) = 1, -5 (mode 4) = 3, and so on. C is similar to the 'reminder' after dividing (a/b). 
+Note that, if a <= n, -a (mod n) is the same as n - a.
 ### Elliptic Curve Cryptography
 ### Curve Ed25519
 ## Ring Signatures
